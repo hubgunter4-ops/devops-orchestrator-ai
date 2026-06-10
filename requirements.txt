@@ -1,0 +1,4 @@
+transformers
+pydantic
+python-dotenv
+torch
